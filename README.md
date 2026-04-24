@@ -103,4 +103,3 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - **Concept** : Architecte1995
 - **Développement** : Kimi K 2.6 Thinking (Moonshot AI)
 - **Moteur PDF** : [PDF-Lib](https://pdf-lib.js.org/) par Andrew Dillon
-```
